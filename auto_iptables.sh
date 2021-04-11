@@ -14,7 +14,7 @@ fi
 Help_msg()
 {
 	echo
-	echo "Usage: -f [Input file]"
+	echo "Usage: -f [Input file] -g [Gateway]"
 	echo "options:"
 	echo -e " f\tSelect input file to use"
 	echo -e " g\tSelect default gateway to use"
